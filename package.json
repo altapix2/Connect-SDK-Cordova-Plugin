@@ -15,7 +15,6 @@
     },
     "dependencies": {
         "q": "1.4.1",
-        "request": "2.61.0",
         "unzip": "0.1.11"
     },
     "keywords": [
