@@ -17,6 +17,12 @@
         "q": "1.4.1",
         "unzip": "0.1.11"
     },
+    "resolutions": {
+        "graceful-fs": "^4.2.10"
+      },
+      "overrides": {
+        "graceful-fs": "^4.2.10"
+      },
     "keywords": [
         "LG",
         "second screen",
